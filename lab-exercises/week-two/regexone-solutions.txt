@@ -5,12 +5,13 @@ l:abc
 5:[hd]og
 6:[ABC][n-p][a-c]
 7:waz{3,}up
-8:a+b*c+
+8:aa+b*c+
 9:\d+ files? found\?
-10:\sabc
-11:
-12:
-13:
-14:
-15:
+10:\d\.\sabc
+11:^Mission: successful$
+12:^(file.+)\.pdf$
+13:(\w+ (\d+))
+14:(\d+)x(\d+)
+15:I love (cats|dogs)
+16. ^The
 
