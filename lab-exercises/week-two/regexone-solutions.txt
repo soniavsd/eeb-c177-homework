@@ -3,11 +3,11 @@ l:abc
 3:...\.
 4:[cmf]an
 5:[hd]og
-6:
-7:
-8:
-9:
-10:
+6:[ABC][n-p][a-c]
+7:waz{3,}up
+8:a+b*c+
+9:\d+ files? found\?
+10:\sabc
 11:
 12:
 13:
