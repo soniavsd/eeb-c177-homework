@@ -1,0 +1,8 @@
+2.1
+1. c{2,5}
+2. ct[act] 
+2.2
+1. \ss[a-z]+
+2. [a-z]+\.
+3. [A-Z][^\.]*
+4. [^.]*struggle for existence[^.]*\.
