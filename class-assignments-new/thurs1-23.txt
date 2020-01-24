@@ -1,0 +1,6 @@
+find lines before the word bos appears:
+ grep -B3 Bos 
+after: -A3
+grep -w to find whole words
+grep -iw makes case insensitive and find whole words
+
